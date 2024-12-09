@@ -1,0 +1,1 @@
+![Diagrama MER](https://www.mermaidchart.com/raw/525796c6-1af6-4c5d-835a-fb03b7e50f32?theme=light&version=v0.1&format=svg)
